@@ -1,0 +1,2 @@
+# text_similarity_calculate
+用python实现文本相似度计算
